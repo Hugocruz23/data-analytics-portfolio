@@ -58,6 +58,6 @@ Evaluación estadística de un experimento con métricas de impacto.
 - **Nombre:** Hugo Cruz  
 - **Email:**  hugoh20cl@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/hugo-h-cruz-lópez-1235527453800h
-- **GitHub:** 
+- **GitHub:** https://github.com/Hugocruz23/data-analytics-portfolio/blob/main/README.md
 
 ¡Gracias por visitar mi portafolio!
