@@ -32,7 +32,7 @@ Aquí encontrarás mis proyectos completos y documentados end-to-end.
 ### 🔹 1. **Forecast de Ventas — Series Temporales**  
 *(En progreso)*  
 Predicción de ventas por tienda para optimizar inventario usando ARIMA/Prophet/XGBoost.  
-[Ver proyecto](projects/sales-forecast/) *(Link se activará al subir el proyecto)*
+[Ver proyecto](projects/sales-forecast) *(Link se activará al subir el proyecto)*
 
 ### 🔹 2. **Segmentación de Clientes + CLTV**  
 *(En progreso)*  
