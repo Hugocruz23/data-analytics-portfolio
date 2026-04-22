@@ -29,10 +29,10 @@ Aquí encontrarás mis proyectos completos y documentados end-to-end.
 - Documentación profesional  
 - Conclusiones accionables
 
-### 🔹 1. **Forecast de Ventas — Series Temporales**  
-*(En progreso)*  
-Predicción de ventas por tienda para optimizar inventario usando ARIMA/Prophet/XGBoost.  
-[Ver proyecto](projects/sales-forecast/README.md) *(Link se activará al subir el proyecto)*
+### 🔹 1. **Telco Customer Churn Analysis — Tasa de abandono**  
+*(Terminado)*  
+Predicción de tasa de abandono en TELCO + LTV.  
+[Ver proyecto](projects/Telco-Churn-Rate/README.md) *(Link se activará al subir el proyecto)*
 
 ### 🔹 2. **Segmentación de Clientes + CLTV**  
 *(En progreso)*  
