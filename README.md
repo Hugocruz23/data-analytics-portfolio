@@ -32,7 +32,7 @@ Aquí encontrarás mis proyectos completos y documentados end-to-end.
 ### 🔹 1. **Telco Customer Churn Analysis — Tasa de abandono**  
 *(Terminado)*  
 Predicción de tasa de abandono en TELCO + LTV.  
-[Ver proyecto]([projects/Telco_Churn_Rate/README.md](https://github.com/Hugocruz23/data-analytics-portfolio/blob/04b630eceffffa0ed9eb3af5535c19be17f1dbd8/projects%20/Telco%20Churn%20Rate/README.md)) *(Link se activará al subir el proyecto)*
+[Ver proyecto](https://github.com/Hugocruz23/data-analytics-portfolio/blob/04b630eceffffa0ed9eb3af5535c19be17f1dbd8/projects%20/Telco%20Churn%20Rate/README.md) *(Link se activará al subir el proyecto)*
 
 ### 🔹 2. **Segmentación de Clientes + CLTV**  
 *(En progreso)*  
