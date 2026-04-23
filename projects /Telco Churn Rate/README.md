@@ -100,8 +100,6 @@ El proyecto incluye un dashboard interactivo que permite:
 * Identificar clientes de alto riesgo
 * Explorar patrones de comportamiento
 
-*(Aquí puedes agregar screenshot o link de Power BI/Tableau)*
-
 ---
 
 ##  Estructura del Proyecto
@@ -123,7 +121,7 @@ Este análisis demuestra la capacidad de:
 
 **Hugo Cruz**
 
-* LinkedIn: (agrega tu link)
-* Email: (agrega tu correo)
+* LinkedIn: [www.linkedin.com/in/hugo-h-cruz-lópez-1235527453800h](https://www.linkedin.com/in/hugo-h-cruz-lópez-1235527453800h/)
+* Email: hugoh20cl@gmail.com
 
 ---
